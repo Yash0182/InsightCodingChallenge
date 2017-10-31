@@ -1,3 +1,5 @@
+Insight Data Challenge:
+
 jar file "Insight.jar" is under the folder src. To call the jar file, run the shell script "run.sh" placed at the same directory level as of src.
 
 There are two classes in the file. One class is the main execution class and the other one is the class for finding the Median ("MedianFinder").
